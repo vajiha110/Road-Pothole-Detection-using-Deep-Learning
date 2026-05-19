@@ -44,7 +44,7 @@ Road-Pothole-Detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Road-Pothole-Detection-using-Deep-Learning.git
+git clone https://github.com/vajiha110/Road-Pothole-Detection-using-Deep-Learning.git
 ```
 
 ### 2. Navigate to Project Folder
